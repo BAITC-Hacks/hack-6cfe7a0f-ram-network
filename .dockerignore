@@ -1,0 +1,15 @@
+.git
+.env
+**/.env
+node_modules
+work
+*.log
+.env.*
+.venv
+__pycache__
+instance
+*.sqlite3*
+*.db*
+*.zip
+firebird
+test_*.py
